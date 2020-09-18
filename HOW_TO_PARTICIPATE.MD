@@ -8,21 +8,23 @@ Website - <https://hacktoberfest.digitalocean.com/>
 
 ## How to Participate
 
-1. ### Fork the Repo**
+1. ### Fork the Repo
 
-   Click on fork button in right corner.It will create a copy of repositiry in your account.
+   Click on **fork** button in right corner.It will create a copy of repositiry in your account.
+
+    - Check here [How to fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 
 2. ### Clone the Repo
 
-   you can clone your repository in your local pc with use of GITHUB Desktop application or Terminal.
+   you can **clone** your repository in your local pc with use of **[Github_Desktop](https://desktop.github.com/)** application or for your [Terminal/bash](https://git-scm.com/downloads).
 
-   for Terminal -
+   for **Terminal** -
 
    ```bash
    git clone <url_name>
    ```
 
-   You can also upload with browser.(Not recommended)
+   - [Cloning the Repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
 3. ### Upload your Code or Change
 
@@ -30,10 +32,16 @@ Website - <https://hacktoberfest.digitalocean.com/>
 
     you can also upload your program to respective folder. It can be anything "Hello world program", "Rock Paper Scissors".
 
+    **Note:- Please Upload your program with proper Documentation in it. So everyone can understand what your program is doing.**
+
 4. ### Push it and Make a PR
 
     Push it to your repository and Issue a PR(Pull Request) in main repository.
 
+    - [Push your first code](https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)
+
 Voila You have Contributed to open-source 😋.
 
 if you stuck somewhere use Stackoverflow
+
+- [pycontributors@gmail.com](mailto:pycontributors@gmail.com)
