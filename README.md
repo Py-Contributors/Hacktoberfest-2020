@@ -1,5 +1,7 @@
 # HacktoberFest-2020
 
+Open source is changing the world - one pull request at a time.
+
 - [HacktoberFest-2020](#hacktoberfest-2020)
   - [What is Hacktoberfest?](#what-is-hacktoberfest)
   - [😕 Why Should I Contribute?](#-why-should-i-contribute)
