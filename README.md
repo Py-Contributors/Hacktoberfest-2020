@@ -28,7 +28,7 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 
 Contributing to open-source is easy.
 
-- fork the repo
+- Give a start then fork(clone) the repo
 - Upload your program written in Python/C++/Python in respective folder.
 - push your work and Crete a PR.
 
