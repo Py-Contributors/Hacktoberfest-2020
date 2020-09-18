@@ -10,7 +10,7 @@ Website - <https://hacktoberfest.digitalocean.com/>
 
 1. ### Fork the Repo
 
-   Click on **fork** button in right corner.It will create a copy of repositiry in your account.
+   Give a start and ⭐ Click on **fork** button in right corner.It will create a copy of repositiry in your account.
 
     - Check here [How to fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 
