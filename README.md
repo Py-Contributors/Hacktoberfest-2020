@@ -1,6 +1,9 @@
 # HacktoberFest-2020
 
+<img align="right" src="https://raw.githubusercontent.com/DrakeEntity/project-Image/master/9b2ca712-347a-4987-bac7-a4c3d106ed24_200x200.png" alt="pycontributors logo">
+
 Open source is changing the world - one pull request at a time.
+
 
 - [HacktoberFest-2020](#hacktoberfest-2020)
   - [What is Hacktoberfest?](#what-is-hacktoberfest)
@@ -22,14 +25,18 @@ But, it’s not just about the t-shirts or stickers. Its about supporting open s
 
 ## What Can I Contribute?
 
-Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code.
+Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code. You can contribute to anything from code to simple fix, new feature to grammar mistake.
 
 ## How to Contribute in this repo.
 
 Contributing to open-source is easy.
 
-- Give a start then fork(clone) the repo
-- Upload your program written in Python/C++/Python in respective folder.
+
+- fork the repo
+- Improve current program by
+  - improving functionality
+  - adding new feature
+  - improving to documentation
 - push your work and Crete a PR.
 
 Check [How to Participate for details](/HOW_TO_PARTICIPATE.MD)
@@ -45,6 +52,9 @@ You can contribute to any open source project hosted on Github.com and contribut
 
 - [pycontributors@gmail.com](mailto:pycontributors@gmail.com)
 
+Telegram Channel & Group for Discussion and future updates - <https://t.me/hacktoberfest2020>
+
+---
 ## Refernce
 
 - [HactoberFest-2020](https://hacktoberfest.digitalocean.com/)
