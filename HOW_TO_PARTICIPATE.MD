@@ -1,5 +1,7 @@
 # Hacktoberfest-2020
 
+<img align="right" src="https://raw.githubusercontent.com/DrakeEntity/project-Image/master/9b2ca712-347a-4987-bac7-a4c3d106ed24_200x200.png" alt="pycontributors logo">
+
 Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code.
 
 Enter Your email on Webiste to win T-shirt.
@@ -31,8 +33,6 @@ Website - <https://hacktoberfest.digitalocean.com/>
     make what change you want to make in Repo. It can be spelling mistake, code correction or anything.
 
     you can also upload your program to respective folder. It can be anything "Hello world program", "Rock Paper Scissors".
-
-    **Note:- Please Upload your program with proper Documentation in it. So everyone can understand what your program is doing.**
 
 4. ### Push it and Make a PR
 
