@@ -2,6 +2,9 @@
 
 <img align="right" src="https://raw.githubusercontent.com/DrakeEntity/project-Image/master/9b2ca712-347a-4987-bac7-a4c3d106ed24_200x200.png" alt="pycontributors logo">
 
+Open source is changing the world - one pull request at a time.
+
+
 - [HacktoberFest-2020](#hacktoberfest-2020)
   - [What is Hacktoberfest?](#what-is-hacktoberfest)
   - [😕 Why Should I Contribute?](#-why-should-i-contribute)
@@ -28,6 +31,7 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 
 Contributing to open-source is easy.
 
+
 - fork the repo
 - Improve current program by
   - improving functionality
@@ -37,10 +41,23 @@ Contributing to open-source is easy.
 
 Check [How to Participate for details](/HOW_TO_PARTICIPATE.MD)
 
+## What if my pull requests aren’t accepted?
+
+Even if your pull requests aren’t accepted, they should still count toward your 4 pull requests necessary to earn the shirt. The only exception would be if the project maintainer chooses to mark your pull request as “invalid”. They may do this if they perceive your pull request to be low effort, or if it contains plagiarism.
+
+## What kinds of pull requests count toward earning the Hacktoberfest shirt?
+Any pull request made to a public repo on GitHub will count. The pull request must contain commits you personally made yourself — not automated commits from bots.
+
 You can contribute to any open source project hosted on Github.com and contribute anything between October 1 to October 31 midnight in 2020. You will find plenty of issues labeled with hacktoberfest or good-first-issue etc on Github. These will be the simple ones most probably and easy to fix.
 
 - [pycontributors@gmail.com](mailto:pycontributors@gmail.com)
 
 Telegram Channel & Group for Discussion and future updates - <https://t.me/hacktoberfest2020>
 
-Download Telegram app from app store and open <https://t.me/hacktoberfest2020>
+---
+## Refernce
+
+- [HactoberFest-2020](https://hacktoberfest.digitalocean.com/)
+- [A participation guide for Hacktoberfest](https://dev.to/zenika/a-participation-guide-for-hacktoberfest-19c1)
+- [What is Hacktoberfest and How can a beginner contribute?](https://medium.com/@bawantharathnayaka/what-is-hacktoberfest-and-how-can-a-beginner-contribute-39cf2081804e)
+- [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/)
