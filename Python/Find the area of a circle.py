@@ -5,7 +5,7 @@ Area = pi * r^2
 '''
 def findarea(r):
 	PI = 3.142
-	return PI * (r * r)
+	return PI * (r ** 2)
 
 if __name__ == "__main__":
 	print("Area is %.6f" % findarea(5))
