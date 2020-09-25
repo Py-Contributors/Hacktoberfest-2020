@@ -35,6 +35,8 @@ Website - <https://hacktoberfest.digitalocean.com/>
 
     You can also upload your program to respective folder. It can be anything "Hello world program", "Rock Paper Scissors",etc.
 
+    `All Repository are open for contributions.`
+
 4. ### Push it and Make a PR
 
     Push it to your repository and Issue a PR(Pull Request) in main repository.
