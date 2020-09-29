@@ -109,7 +109,7 @@ Read the [participation details](https://hacktoberfest.digitalocean.com/details)
 
    Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch. Note that all of the commands presented below merge into the current branch.
 
-## :rocket: Voila! You have Contributed to open-source 😋.
+## :rocket: Voila! You have Contributed to Open-Source 😋.
 
 If you stuck somewhere use Stackoverflow
 
