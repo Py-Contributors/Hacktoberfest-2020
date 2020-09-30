@@ -11,6 +11,9 @@ def mul(num1, num2):
 	return num1 * num2
 
 def div(num1, num2):
+	if num2 == 0:
+		print("Can't divide a number by 0")
+		exit()
 	return num1 / num2
 
 print("Please Select Operations\n "\
