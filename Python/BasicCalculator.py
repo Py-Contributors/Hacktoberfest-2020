@@ -23,7 +23,7 @@ print("Please Select Operations\n "\
 select = input("Press\n" "1 " "2 " "3 " "4 \n")
 
 number_1 = int(input("Type Your First Number :"))
-number_2 = int(input("Type Yur Second Number :"))
+number_2 = int(input("Type Your Second Number :"))
 
 
 if select == '1':
