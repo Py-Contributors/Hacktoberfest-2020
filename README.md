@@ -6,7 +6,6 @@
 
 Open source is changing the world - one pull request at a time. 
 
-
 - [HacktoberFest-2020](#hacktoberfest-2020)
   - [What is Hacktoberfest?](#what-is-hacktoberfest)
   - [😕 Why Should I Contribute?](#-why-should-i-contribute)
@@ -29,17 +28,16 @@ But, it’s not just about the t-shirts or stickers. Its about supporting open s
 
 Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code. You can contribute to anything from code to simple fix, new feature to grammar mistake.
 
-## How to Contribute in this repo.
+## How to Contribute in this repo?
 
 Contributing to open-source is easy.
 
-
-- fork the repo
+- Fork the repo
 - Improve current program by
   - improving functionality
   - adding new feature
   - improving to documentation
-- push your work and Crete a PR.
+- Push your work and create a PR.
 
 Check [How to Participate for details](/HOW_TO_PARTICIPATE.MD)
 
@@ -48,6 +46,7 @@ Check [How to Participate for details](/HOW_TO_PARTICIPATE.MD)
 Even if your pull requests aren’t accepted, they should still count toward your 4 pull requests necessary to earn the shirt. The only exception would be if the project maintainer chooses to mark your pull request as “invalid”. They may do this if they perceive your pull request to be low effort, or if it contains plagiarism.
 
 ## What kinds of pull requests count toward earning the Hacktoberfest shirt?
+
 Any pull request made to a public repo on GitHub will count. The pull request must contain commits you personally made yourself — not automated commits from bots.
 
 You can contribute to any open source project hosted on Github.com and contribute anything between October 1 to October 31 midnight in 2020. You will find plenty of issues labeled with hacktoberfest or good-first-issue etc on Github. These will be the simple ones most probably and easy to fix.
@@ -57,7 +56,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 Telegram Channel & Group for Discussion and future updates - <https://t.me/hacktoberfest2020>
 
 ---
-## Refernce
+## Refrences
 
 - [HactoberFest-2020](https://hacktoberfest.digitalocean.com/)
 - [A participation guide for Hacktoberfest](https://dev.to/zenika/a-participation-guide-for-hacktoberfest-19c1)
