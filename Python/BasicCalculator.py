@@ -35,7 +35,7 @@ print("Please Select Operations\n "\
            "7. Square root \n")
 
 #Take Input From Keyword
-select = input("Press\n" "1 " "2 " "3 " "4 " "6 " "7 \n")
+select = input("Press\n" "1 " "2 " "3 " "4 " "5 " "6 " "7 \n")
 
 number_1 = int(input("Type Your First Number :"))
 number_2 = int(input("Type Your Second Number :"))
