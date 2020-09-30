@@ -39,7 +39,7 @@ Contributing to open-source is easy.
   - improving functionality
   - adding new feature
   - improving to documentation
-- push your work and Crete a PR.
+- push your work and Create a PR.
 
 Check [How to Participate for details](/HOW_TO_PARTICIPATE.MD)
 
