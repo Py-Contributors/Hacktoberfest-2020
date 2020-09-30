@@ -1,5 +1,5 @@
 from textblob import TextBlob
 
-a = "Pogram"
+a = "Pogrram"
 b = TextBlob(a)
 print(b.correct())
