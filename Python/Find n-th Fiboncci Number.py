@@ -1,7 +1,7 @@
 '''
-Fibonacci Series are a series of number which starts from 0 and 1, then the next number is an addition of the previous 2 numbers.
+Fibonacci Series are a series of number in which each number is an addition of the previous 2 numbers.
 For eg: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34.... is a fibonacci series.
-Here 0 & 1 are the first two numbers, then we get 1 which is an addition of 0 and 1, then we get 2 i.e addition of 1 & 1,
+Here 0 & 1 are the first two base numbers, then we get 1 which is an addition of 0 and 1, then we get 2 i.e addition of 1 & 1,
 then we get 3 i.e addition of 2 & 1 and so on.
 '''
 
