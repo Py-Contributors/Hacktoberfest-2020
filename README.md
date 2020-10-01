@@ -52,6 +52,10 @@ Any pull request made to a public repo on GitHub will count. The pull request mu
 
 You can contribute to any open source project hosted on Github.com and contribute anything between October 1 to October 31 midnight in 2020. You will find plenty of issues labeled with hacktoberfest or good-first-issue etc on Github. These will be the simple ones most probably and easy to fix.
 
+
+## Why to do this all for a t-shirt?
+Well if you are a codegeek or want to become a codegeek you should push yourself come up and win a t-shirt because it will not only boost your confidence while we finnaly wear it but also teach you to create pull requests which is further needed in your proffession career as a programmer.
+
 - [pycontributors@gmail.com](mailto:pycontributors@gmail.com)
 
 Telegram Channel & Group for Discussion and future updates - <https://t.me/hacktoberfest2020>
