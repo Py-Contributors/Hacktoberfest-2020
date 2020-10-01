@@ -1,3 +1,4 @@
+#python code to find the friendship value between two friends just for fun
 alphabet = 'bcghjklmpqtvwxyz'
 score = 0
 name = input("Enter first name and second name with space in between:-")
