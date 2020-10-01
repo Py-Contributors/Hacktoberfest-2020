@@ -1,28 +1,45 @@
-'''
-Number Guessing Game In Python Without Gui Using Random and User_Input Fucntion in Python 3.8
-'''
-import random   
-input("First Choose your Range for Number guessing\nlike 1 to 20\nEnter To Start Game For Number Guess ")
-lower_range =int(input("Enter Your Lower Range To Start Guessing Game: \n"))
-upper_range =int(input("Enter Your Upper Range To Start Guessing Game: \n"))
+import random
+import sys
 
-ran_num = random.randint(lower_range,upper_range) 
-#print(ran_num) To print Random Number For Debugging Purpose. 
-'''
-Random : import random for generate random number between Lower Range TO Upper Range
-Input  : input Fucntion for take user input
-Lower Range : Lower Range for randomly Generated Number
-Upper Range : Upper Range For Randomly Generated Number
-ran_num = Random Number Generated In Saved In ran_num Variable for Check With User Input
+low = 1
+high = 100
 
-'''
+print("Guess a number between {0} and {1}".format(low, high))
 
-num = int(input("Please Enter Your Guess Number :\n"))
-while True:
-	if num == ran_num:         # Checking User Input with Random Generated Number
-		print("You Guess Right Number")
+guessnumb = 0
+number = random.randint(low, high)
+
+try:
+	guess = int(input('What\'s your guess? '))
+except ValueError:
+	print("Couldn\'t convert input to Integer")
+	continue
+
+if guess < low or guess > high:
+	print("Value out of range ({0} - {1})".format(low, high))
+else:
+	guessnumb += 1
+	
+	if guess < number:
+		print("Your guess was too low")
+
+	if guess > number:
+		print("Your guess was too high")
+
+	if guess == number:
 		break
+	
+except KeyboardInterrupt:
+	print("\n  ^C detected, terminating...")
+	sys.exit()
+
+except EOFError:
+	print("\n  ^D detected, terminating...")
+	sys.exit()
+
+if guess == number:
+	if guessnumb <5:
+		print("Great, you guessed the number in {0} trys. You are good at this!".format(guessnumb))
+	
 	else:
-		print("Your Guess Was Wrong")   # if ran_num was not same as User Input.
-		break
-print("The Real Number Was {}".format (ran_num))   # To Print The Random Generated Number . 
+		print("Lol, you guessed the number in {0} trys. You suck in this game".format(guessnumb))
