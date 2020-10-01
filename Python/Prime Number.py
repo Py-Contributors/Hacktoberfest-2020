@@ -1,5 +1,6 @@
 '''A Prime Number is a natural number greater than 1 that has no positive divisors other than 1 and itself. 
 The first few prime number are {2,3,5,7,11}
+This Program will provide the prime number at the end
 '''
 input("Enter Your Range For Print Number \nLower Range \n Upper Range\n Like  1 to 20")
 a = int(input("Lower Range :\n "))
