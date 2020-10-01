@@ -1,8 +1,10 @@
 # HacktoberFest-2020
 
+### Disclaimer :- This Repository is for learning purpose, how to create issue and Pull request on github during HacktoberFest.
+
 <img align="right" src="https://raw.githubusercontent.com/DrakeEntity/project-Image/master/9b2ca712-347a-4987-bac7-a4c3d106ed24_200x200.png" alt="pycontributors logo">
 
-Open source is changing the world - one pull request at a time.
+Open source is changing the world - one pull request at a time. 
 
 
 - [HacktoberFest-2020](#hacktoberfest-2020)

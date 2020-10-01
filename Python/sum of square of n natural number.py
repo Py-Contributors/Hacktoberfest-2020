@@ -13,3 +13,19 @@ def squaresum(n):
 
 n = int(input("Enter Number to Print Sum Of square of N Natural Number :\n"))
 print(squaresum(n))
+
+
+'''
+The above approach takes linear time to compute the squaresum however we can solve
+this in constant time using the formula:
+    Σn^2 = [n(n+1)(2n+1)]/6
+
+Source : https://en.wikipedia.org/wiki/Square_pyramidal_number
+'''
+
+def squaresum(n):
+	sum = (n*(n+1)*(2*n+1))//6
+	return sum
+
+n = int(input("Enter Number to Print Sum Of square of N Natural Number :\n"))
+print(squaresum(n))

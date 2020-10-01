@@ -14,7 +14,14 @@ def mul(num1, num2):
 
 
 def div(num1, num2):
+
     return num1 / num2
+
+	if num2 == 0:
+		print("Can't divide a number by 0")
+		exit()
+	return num1 / num2
+
 
 
 print("Please Select Operations\n "
@@ -47,6 +54,11 @@ elif select == '4':
     print(div(number_1, number_2))
 
 else:
+
     print('Invalid Input! Try again ')
+
+
+	print('Invalid Input ! Try aagian ')
+	
 
 print('Thanks for Using Calculator')
