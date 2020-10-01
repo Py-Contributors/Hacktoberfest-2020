@@ -18,9 +18,16 @@ def bubbleSort(arr):
   
 # Driver code to test above 
 arr = [64, 34, 25, 12, 22, 11, 90] 
-  
+#for dynamic list input
+'''n=int(input('total elements of list'))
+arr=[]
+while (n>=1):
+  i=int(input('enter element'))
+  arr.append(i)
+  return (arr)
+'''
 bubbleSort(arr) 
   
 print ("Sorted array is:") 
 for i in range(len(arr)): 
-    print ("%d" %arr[i]),  
+    print (arr[i]),  
