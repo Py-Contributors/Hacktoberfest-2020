@@ -62,4 +62,6 @@ Telegram Channel & Group for Discussion and future updates - <https://t.me/hackt
 - [HactoberFest-2020](https://hacktoberfest.digitalocean.com/)
 - [A participation guide for Hacktoberfest](https://dev.to/zenika/a-participation-guide-for-hacktoberfest-19c1)
 - [What is Hacktoberfest and How can a beginner contribute?](https://medium.com/@bawantharathnayaka/what-is-hacktoberfest-and-how-can-a-beginner-contribute-39cf2081804e)
+- [Understand the GitHub Flow](https://guides.github.com/introduction/flow/)
+- [Absolute Beginner’s Checklist](https://dev.to/cockroachlabs/an-absolute-beginner-s-checklist-for-hacktoberfest-p2k)
 - [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/)
