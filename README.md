@@ -1,6 +1,6 @@
 # HacktoberFest-2020
 
-### Disclaimer :- This Repository is for learning purpose, how to create issue and Pull request on github during HacktoberFest.
+### Disclaimer :- This Repository is for learning purpose, how to create an issue and, Pull request on GitHub during HacktoberFest.
 
 <img align="right" src="https://raw.githubusercontent.com/DrakeEntity/project-Image/master/9b2ca712-347a-4987-bac7-a4c3d106ed24_200x200.png" alt="pycontributors logo">
 
@@ -23,7 +23,7 @@ During the entire month of October 2020, all you have to do is contribute to any
 
 The Hacktoberfest’s simple plain objective is:
 Support open source and earn a limited edition T-shirt!
-But, it’s not just about the t-shirts or stickers. Its about supporting open source. Its about celebrating open source, and giving it back. If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities.
+But, it’s not just about the t-shirts or stickers. It's about supporting open source. It's about celebrating open source, and giving it back. If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities.
 
 ## What Can I Contribute?
 
@@ -39,7 +39,7 @@ Contributing to open-source is easy.
   - improving functionality
   - adding new feature
   - improving to documentation
-- push your work and Crete a PR.
+- push your work and Create a PR.
 
 Check [How to Participate for details](/HOW_TO_PARTICIPATE.MD)
 
