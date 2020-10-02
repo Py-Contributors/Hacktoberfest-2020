@@ -1,5 +1,9 @@
+#Binary Tree in Python
 class Node:
-
+    """
+    Class Node
+    """
+    # A constructor to create a new Binary tree Node 
     def __init__(self, data):
 
         self.left = None
@@ -15,7 +19,10 @@ root = Node(10)
 root.PrintTree()
 
 class Node:
-
+    """
+    Class Node
+    """
+    # A constructor to create a new Binary tree Node 
     def __init__(self, data):
 
         self.left = None
@@ -23,7 +30,8 @@ class Node:
         self.data = data
 
     def insert(self, data):
-# Compare the new value with the parent node
+    #Insert method to create nodes
+    # Compare the new value with the parent node
         if self.data:
             if data < self.data:
                 if self.left is None:
@@ -45,8 +53,10 @@ class Node:
         print( self.data),
         if self.right:
             self.right.PrintTree()
+            
 
 # Use the insert method to add nodes
+# Driver program to test above function 
 root = Node(12)
 root.insert(6)
 root.insert(14)
