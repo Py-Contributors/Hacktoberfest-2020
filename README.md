@@ -1,6 +1,6 @@
 # HacktoberFest-2020
 
-### Disclaimer :- This Repository is for learning purpose, how to create issue and Pull request on github during HacktoberFest.
+### Disclaimer :- This Repository is for learning purpose, how to create issue and Pull request on github during HacktoberFest
 
 <img align="right" src="https://raw.githubusercontent.com/DrakeEntity/project-Image/master/9b2ca712-347a-4987-bac7-a4c3d106ed24_200x200.png" alt="pycontributors logo">
 
@@ -8,10 +8,14 @@ Open source is changing the world - one pull request at a time.
 
 
 - [HacktoberFest-2020](#hacktoberfest-2020)
+    - [Disclaimer :- This Repository is for learning purpose, how to create issue and Pull request on github during HacktoberFest](#disclaimer---this-repository-is-for-learning-purpose-how-to-create-issue-and-pull-request-on-github-during-hacktoberfest)
   - [What is Hacktoberfest?](#what-is-hacktoberfest)
   - [😕 Why Should I Contribute?](#-why-should-i-contribute)
   - [What Can I Contribute?](#what-can-i-contribute)
   - [How to Contribute in this repo.](#how-to-contribute-in-this-repo)
+  - [What if my pull requests aren’t accepted?](#what-if-my-pull-requests-arent-accepted)
+  - [What kinds of pull requests count toward earning the Hacktoberfest shirt?](#what-kinds-of-pull-requests-count-toward-earning-the-hacktoberfest-shirt)
+  - [Refernce](#refernce)
 
 ## What is Hacktoberfest?
 
@@ -33,7 +37,6 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 
 Contributing to open-source is easy.
 
-
 - fork the repo
 - Improve current program by
   - improving functionality
@@ -48,6 +51,7 @@ Check [How to Participate for details](/HOW_TO_PARTICIPATE.MD)
 Even if your pull requests aren’t accepted, they should still count toward your 4 pull requests necessary to earn the shirt. The only exception would be if the project maintainer chooses to mark your pull request as “invalid”. They may do this if they perceive your pull request to be low effort, or if it contains plagiarism.
 
 ## What kinds of pull requests count toward earning the Hacktoberfest shirt?
+
 Any pull request made to a public repo on GitHub will count. The pull request must contain commits you personally made yourself — not automated commits from bots.
 
 You can contribute to any open source project hosted on Github.com and contribute anything between October 1 to October 31 midnight in 2020. You will find plenty of issues labeled with hacktoberfest or good-first-issue etc on Github. These will be the simple ones most probably and easy to fix.
@@ -57,6 +61,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 Telegram Channel & Group for Discussion and future updates - <https://t.me/hacktoberfest2020>
 
 ---
+
 ## Refernce
 
 - [HactoberFest-2020](https://hacktoberfest.digitalocean.com/)
