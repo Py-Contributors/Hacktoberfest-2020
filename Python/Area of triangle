@@ -1,0 +1,8 @@
+print("Enter the three sides of the triangle")
+side1 = int(input(">>>"))
+side2 = int(input(">>>"))
+side3 = int(input(">>>"))
+
+s = (side1 + side2 + side3) / 2
+area = (s * (s - side1) * (s - side2) * (s - side3)) ** 0.5
+print("The area of the triangle is ", area)
