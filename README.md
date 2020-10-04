@@ -1,6 +1,6 @@
 # HacktoberFest-2020
 
-### Disclaimer :- This Repository is for learning purpose, how to create issue and Pull request on github during HacktoberFest.Contributions on this repository will not count for HacktoberFest. We are not adding this repository for HacktoberFest. We support real motive of Open Source contributions.
+### Disclaimer :- This Repository is for learning purpose, how to create issue and Pull request on github during HacktoberFest.Contributions on this repository will not count for HacktoberFest. We are not adding this repository for HacktoberFest. We support real motive of Open Source contributions. you can check out our other [Repository](https://github.com/py-contributors/) which are participating in Hacktober. Check [here](https://github.com/py-contributors/)
 
 <img align="right" src="https://raw.githubusercontent.com/DrakeEntity/project-Image/master/9b2ca712-347a-4987-bac7-a4c3d106ed24_200x200.png" alt="pycontributors logo">
 
