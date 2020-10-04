@@ -16,14 +16,18 @@ def div(num1, num2):
 		exit()
 	return num1 / num2
 
+def per(num1, num2):
+    return num1 * num2	/ 100
+
 print("Please Select Operations\n "\
 	   "1. Addition\n " 
 	   "2. Subtraction \n"
 	   "3. Multiplication \n"
-	   "4. Divide \n" )
+	   "4. Divide \n"
+           "5. Percentage \n" )
 
 #Take Input From Keyword
-select = input("Press\n" "1 " "2 " "3 " "4 \n")
+select = input("Press\n" "1 " "2 " "3 " "4 " "5 \n")
 
 number_1 = int(input("Type Your First Number :"))
 number_2 = int(input("Type Your Second Number :"))
@@ -45,6 +49,10 @@ elif select == '4':
 	print(number_1, '/', number_2, '=')
 	print(div(number_1, number_2))
 
+elif select == '5':
+         print(number_1, '//', number_2, '=')
+         print(per(number_1, number_2))
+	
 else:
 	print('Invalid Input ! Try aagian ')
 	
