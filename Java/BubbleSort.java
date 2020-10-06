@@ -9,7 +9,6 @@ public class BubbleSort {
 		System.out.print("Type the size of the Array: ");
 		int x = input.nextInt();
 		
-		boolean sorted = true;
 		int[] array = new int[x];
 		
 		// filling the array
