@@ -1,0 +1,23 @@
+def incircle_radius(a,b,c):
+    """Returns the inradius of a triangle."""
+    area = triangle_area(a,b,c)
+    return 2*area/(a+b+c)
+ 
+def triangle_area(a, b, c):
+    """Returns the area of a triangle using Heron's Formula."""
+    # Get the semiperimeter
+    s = (a+b+c)/2
+ 
+    return (s*(s-a)*(s-b)*(s-c))**(1/2)
+ 
+# Get sidelengths
+lengths = input("Enter the sidelengths in this format: x y z").split()
+ 
+# Convert the values to integers
+l = []
+for i in lengths:
+    l.append(int(i))
+ 
+# Return values
+print("Area:", triangle_area(l[0], l[1], l[2]))
+print("Inradius:",incircle_radius(l[0],l[1],l[2]))
