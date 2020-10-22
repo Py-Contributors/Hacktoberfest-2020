@@ -50,7 +50,7 @@ Even if your pull requests aren’t accepted, they should still count toward you
 ## What kinds of pull requests count toward earning the Hacktoberfest shirt?
 Any pull request made to a public repo on GitHub will count. The pull request must contain commits you personally made yourself — not automated commits from bots.
 
-You can contribute to any open source project hosted on Github.com and contribute anything between October 1 to October 31 midnight in 2020. You will find plenty of issues labeled with hacktoberfest or good-first-issue etc on Github. These will be the simple ones most probably and easy to fix.
+You can contribute to any open source project hosted on Github.com and contribute anything between October 1 to October 31 midnight in 2020. You will find plenty of issues labeled with hacktoberfest or good-first-issue etc., on Github. These will be the simple ones most probably and easy to fix.
 
 - [pycontributors@gmail.com](mailto:pycontributors@gmail.com)
 
