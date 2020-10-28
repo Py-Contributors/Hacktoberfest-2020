@@ -2,7 +2,7 @@
 Number Guessing Game In Python Without Gui Using Random and User_Input Fucntion in Python 3.8
 '''
 import random   
-input("First Choose your Range for Number guessing\nlike 1 to 20\nEnter To Start Game For Number Guess ")
+input("Choose your Range for Number guessing\nlike 1 to 20\nEnter To Start Game For Number Guess ")
 lower_range =int(input("Enter Your Lower Range To Start Guessing Game: \n"))
 upper_range =int(input("Enter Your Upper Range To Start Guessing Game: \n"))
 
@@ -20,7 +20,7 @@ ran_num = Random Number Generated In Saved In ran_num Variable for Check With Us
 num = int(input("Please Enter Your Guess Number :\n"))
 while True:
 	if num == ran_num:         # Checking User Input with Random Generated Number
-		print("You Guess Right Number")
+		print("You Guessed Right Number")
 		break
 	else:
 		print("Your Guess Was Wrong")   # if ran_num was not same as User Input.
