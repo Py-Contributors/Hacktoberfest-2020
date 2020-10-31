@@ -45,7 +45,6 @@ Website - <https://hacktoberfest.digitalocean.com/>
 
 Voila, you have contributed to open-source 😋.
 
-If you are stuck somewhere use Stackoverflow.
-
+If you are stuck somewhere use Stackoverflow
 
 - [pycontributors@gmail.com](mailto:pycontributors@gmail.com)
