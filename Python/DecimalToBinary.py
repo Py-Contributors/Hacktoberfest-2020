@@ -1,15 +1,15 @@
 def DecimalToBinary(x):
-    BinaryNumb = ""
+    BinaryNumber = ""
     while x>0:
         if x%2 == 0:
-            BinaryNumb = "0 "+BinaryNumb
+            BinaryNumber = "0 "+BinaryNumber
         else:
-            BinaryNumb = "1 "+BinaryNumb
+            BinaryNumber = "1 "+BinaryNumber
         x//=2
-    return BinaryNumb
+    return BinaryNumber
 
 def main():
-    x = int(input("Enter Decimal Number: "))
-    BinaryNumb = DecimalToBinary(x)
-    print("Binary Number: ",BinaryNumb)
+    x = int(input("Enter Decimal Number: ")) #x is assigned to input number here
+    BinaryNumber = DecimalToBinary(x)
+    print("Binary Number: ",BinaryNumber)
 main()
