@@ -58,7 +58,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 Telegram Channel & Group for Discussion and future updates - <https://t.me/hacktoberfest2020>
 
 ---
-## Refernce
+## Reference
 
 - [HactoberFest-2020](https://hacktoberfest.digitalocean.com/)
 - [A participation guide for Hacktoberfest](https://dev.to/zenika/a-participation-guide-for-hacktoberfest-19c1)
