@@ -1,20 +1,11 @@
-def reverse(s):
-	return s[::-1]
-
-def isPalindrome(s):
-	#calling reverse function
-	rev=reverse(s)
-
-    #checking if both string are equal or not
-	if (s == rev):
-		return True
-	return False
-
-	#Driver code
-s="KADAK"
-ans=isPalindrome(s)
-
-if ans == 1:
-		print("Yes")
+phrase = str(input("Digite a frase que será invertida: ")).strip().upper() #Receive the phrase
+words = phrase.split() # spliting the word
+together = "".join(words) # joining the words
+inverse = "" #inverting a word
+for letter in range(len(junto)-1, -1, -1): #creating the loop
+    inverse += together[letra]
+print(together, inverse) #showind the words
+if inverse == together: #Checking
+    print("Yes, is a  palindrome") #result
 else:
-		print("NO")
+    print("Sorry, isn't a palindrome")#result
