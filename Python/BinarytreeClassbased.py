@@ -1,24 +1,29 @@
-def binarytree(r):
-    return[r,[],[]]
-def insertleft(root,newbranch):
-    t=root.pop(1)
-    if len(t)>1:
-        root.insert(1,[newbranch,t,[]])
-    else:
-        root.insert(1,[newbranch,[],[]])
-    return root
-def insertright(root,newbranch):
-    t=root.pop(2)
-    if len(t)>1:
-        root.insert(2,[newbranch,[],t])
-    else:
-        root.insert(2,[newbranch,[],[]])
-    return root
-def getroot(root,new):
-    root[0]=new
-def setnew(root):
-    return root[0]
-def getleft(root):
-    return root[1]
-def getright(root):
-    return root[2]
+class Node:
+
+    def __init__(self, data):
+
+        self.left = None
+        self.right = None
+        self.data = data
+
+    def insert(self,data):
+        if self.data:
+            if data < self.data:
+                if self.left is None:
+                    self.left = Node(data)
+                else:
+                    self.left.insert(data)
+            else:
+                if self.right is None:
+                    self.right = Node(data)
+
+                else:
+                    self.right.insert(data)
+        else:
+            self.data = data
+
+c1 = Node(14)
+c1.insert(42)
+c1.insert(16)
+c1.insert(8)
+            
