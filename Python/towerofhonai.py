@@ -1,10 +1,9 @@
-def movetower(height, fromtower, totower, withtower):
-    if height == 1:
-        print(fromtower + '-->' + totower)
-        return True
-    print('Executing 1, height of tower: {}'.format(height))
-    movetower(height-1, fromtower,withtower,totower)
-    print(fromtower + '-->' + totower)
-    print('Executing 2, height of tower: {}'.format(height))
-    movetower(height-1, withtower, totower, fromtower)
-print(movetower(3,'a','c','b'))
+def movetower(n,source,aux,dest):
+    if n == 1:
+        print(source + '-->' + dest)
+        return
+    movetower(n-1,source,dest,aux)
+    print(source + '-->' + dest)
+    movetower(n-1, aux, source, dest)
+n=int(input())
+print(movetower(n,'a','b','c'))
